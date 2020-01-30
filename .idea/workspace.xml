@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1436ea9-7bb1-4408-9f58-f29372135a36" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WVvzPpLabSAbvD8K0daayzDcrD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\canyun" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="test1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\mengy\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1436ea9-7bb1-4408-9f58-f29372135a36" name="Default Changelist" comment="" />
+      <created>1579247838302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579247838302</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="234" y="39" key="#Project_Structure" timestamp="1579262067401">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="234" y="39" key="#Project_Structure/0.0.1280.760@0.0.1280.760" timestamp="1579262067401" />
+    <state x="446" y="89" key="#com.intellij.ide.util.MemberChooser" timestamp="1580287355041">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="446" y="89" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1580287355041" />
+    <state x="429" y="247" width="421" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580277920340">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="429" y="247" width="421" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.760@0.0.1280.760" timestamp="1580277920340" />
+    <state x="358" y="88" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1580277916216">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="358" y="88" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1280.760@0.0.1280.760" timestamp="1580277916216" />
+    <state x="362" y="256" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1580278566044">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="362" y="256" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.760@0.0.1280.760" timestamp="1580278566044" />
+    <state x="422" y="113" key="FileChooserDialogImpl" timestamp="1580356505476">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="422" y="113" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1580356505476" />
+    <state width="1238" height="189" key="GridCell.Tab.0.bottom" timestamp="1580356381265">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="189" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1580356381265" />
+    <state width="1238" height="189" key="GridCell.Tab.0.center" timestamp="1580356381265">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="189" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1580356381265" />
+    <state width="1238" height="189" key="GridCell.Tab.0.left" timestamp="1580356381265">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="189" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1580356381265" />
+    <state width="1238" height="189" key="GridCell.Tab.0.right" timestamp="1580356381265">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="189" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1580356381265" />
+    <state x="143" y="0" key="SettingsEditor" timestamp="1580356496517">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="143" y="0" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1580356496517" />
+    <state x="364" y="123" width="540" height="524" key="StructurePopup" timestamp="1580278625733">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="364" y="123" width="540" height="524" key="StructurePopup/0.0.1280.760@0.0.1280.760" timestamp="1580278625733" />
+    <state x="7" y="82" key="new project wizard" timestamp="1580353853138">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="7" y="82" key="new project wizard/0.0.1280.760@0.0.1280.760" timestamp="1580353853138" />
+    <state x="303" y="82" width="672" height="678" key="search.everywhere.popup" timestamp="1580278512831">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="303" y="82" width="672" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1580278512831" />
+  </component>
+</project>
